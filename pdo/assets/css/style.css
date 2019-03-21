@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 85%;
+}
+
+.tableForm {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+.nonaktifForm {
+    background-color: rgb(224, 222, 222);
+}
+
+td,
+th {
+    padding: 3px;
+    border-bottom: 1px solid #aaa;
+}
